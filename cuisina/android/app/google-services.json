@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "816951907797",
+    "project_id": "cuisina-e2699",
+    "storage_bucket": "cuisina-e2699.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816951907797:android:037a0c5816ed073f23d95c",
+        "android_client_info": {
+          "package_name": "com.cuisina"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816951907797-o5p183rke65jlsqokbi2cthg62rjj7ci.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cuisina",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "816951907797-c11nc87fs39cbs0kj9pjr7b7hq9btdti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0JoU_VgD2B_uclCtk39C9O_r5bMD8EE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816951907797-c11nc87fs39cbs0kj9pjr7b7hq9btdti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
